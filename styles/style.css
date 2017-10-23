@@ -1,0 +1,173 @@
+
+html {
+  background-color: #A40E1D;
+  font-size: 10px;
+  font-family: 'verdana', cursive;
+}
+
+body {
+  width: 800px;
+  margin: 0 auto;
+  background-color: white;
+  padding: 10px 20px 20px 20px;
+  border: 50px solid #A40E1D;
+}
+
+h1 {
+  font-size: 50px;
+  text-align: center;
+  margin: 20px;
+  padding: 0px 30px 30px 30px;
+  color: gold;
+  text-shadow: 3px 3px 1px black;
+
+}
+.red {
+  background-color: red;
+  color: white;
+  padding: 5px 30px;
+}
+
+.blue {
+  background-color: blue;
+  color: white;
+  padding: 5px 30px;
+}
+
+.yellow {
+  background-color: yellow;
+  padding: 5px 22px;
+}
+
+.green {
+  background-color: green;
+  color: white;
+  padding: 5px 23px;
+}
+
+.orange {
+  background-color: orange;
+  color: white;
+  padding: 5px 22px;
+}
+
+.black {
+  background-color: black;
+  color: white;
+  padding: 5px 25px;
+}
+
+.brown {
+  background-color: brown;
+  color: white;
+  padding: 5px 27px;
+}
+
+.purple {
+  background-color: purple;
+  color: white;
+  padding: 5px 30px;
+}
+
+
+p {
+  font-size: 16px;
+  margin: 30px 60px 20px 40px;
+  text-align: center;
+  line-height: 2;
+  letter-spacing: 1px;
+}
+
+.instructions {
+  padding: 10px;
+}
+
+button {
+  margin: 10px 10px;
+  font-size:14px;
+  font-weight: bold;
+  color: #A40E1D;
+}
+
+.buttons {
+
+  position: relative;
+  text-align: center;
+  padding: 20px;
+}
+
+#gradient {
+  margin-top: 40px;
+}
+.erase {
+  margin-left: 60px;
+}
+
+label {
+  font-size:14px;
+  color: white;
+  font-weight: bold;
+}
+
+.clear {
+  float:left;
+  margin-top: 20px;
+  margin-left: 130px;
+  width:60px;
+  height:60px;
+  border-radius:50px;
+  font-size:14px;
+  font-weight: bold;
+  color: #A40E1D;
+  line-height:60px;
+  text-align:center;
+  background:white;
+}
+
+.resize {
+  float:right;
+  margin-top: 20px;
+  margin-right: 130px;
+  width:60px;
+  height:60px;
+  border-radius:50px;
+  font-size:14px;
+  font-weight: bold;
+  color: #A40E1D;
+  line-height:60px;
+  text-align:center;
+  background:white;
+}
+
+.pickColor {
+    margin: 20px 80px;
+    text-align: center;
+}
+
+
+#container {
+  position: relative;
+	top: 30px;
+	outline:80px solid #EE0206;
+	font-size: 0;
+	margin:auto;
+	height:480px;
+	width:480px;
+	padding: 0;
+  background-color: white;
+  border: 10px solid #A40E1D;
+}
+
+#foot {
+  margin: 10px 20px;
+  padding: 10px;
+  text-align: center;
+  position: relative;
+}
+
+.grid {
+	margin:0;
+	padding:0;
+	border:none;
+	display:inline-block;
+}
